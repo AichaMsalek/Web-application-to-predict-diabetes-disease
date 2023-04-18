@@ -9,6 +9,7 @@ To run this application, you will need to have Python 3.x installed on your mach
 **Usage**
 
 To start the application, run the following command in your terminal while in the project directory: **streamlit run app.py** 
+
 This will launch the web application in your default web browser.
 
 **Data**
