@@ -3,6 +3,7 @@ This is a web application for predicting the likelihood of diabetes in patients 
 
 
 **Prerequisites**
+
 To run this application, you will need to have Python 3.x installed on your machine.
 
 **Usage**
