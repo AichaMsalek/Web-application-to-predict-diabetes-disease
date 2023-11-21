@@ -12,8 +12,8 @@ This is a web application for predicting the likelihood of diabetes in patients 
 #### This will launch the web application in your default web browser.
 
 # Usage
-Prediction Interface: Enter the required parameters and click "Predict" to get the diabetes prediction.
-Data Visualization Interface: Explore various visualizations and insights provided on the interface.
+- Prediction Interface: Enter the required parameters and click "Predict" to get the diabetes prediction.
+- Data Visualization Interface: Explore various visualizations and insights provided on the interface.
 
 
 
