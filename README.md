@@ -1,17 +1,22 @@
 # Diabetes Prediction Web Application
 This is a web application for predicting the likelihood of diabetes in patients based on several medical measurements. The application is built using Python and the Streamlit library, and uses a machine learning model trained on a diabetes dataset to make predictions.
 
+# Features
+Prediction Interface: Allows users to input parameters and predict the likelihood of diabetes.
+Data Visualization Interface: Provides visual representations and insights based on diabetes-related data.
 
-### Prerequisites 
+# Setup
+- Clone the Repository: *git clone https://github.com/AichaMsalek/Web-application-to-predict-diabetes-disease.git*
+- Install Dependencies: *pip install -r requirements.txt*
+- Run the Application: *streamlit run webapplication.py*
+#### This will launch the web application in your default web browser.
 
-To run this application, you will need to have Python 3.x installed on your machine.
+# Usage
+Prediction Interface: Enter the required parameters and click "Predict" to get the diabetes prediction.
+Data Visualization Interface: Explore various visualizations and insights provided on the interface.
 
-### Usage
 
-To start the application, run the following command in your terminal while in the project directory: streamlit run WebApp.py
 
-This will launch the web application in your default web browser.
 
-### Data
-The dataset used to train the machine learning model can be downloaded from : https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
 
